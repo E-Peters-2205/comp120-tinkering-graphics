@@ -4,7 +4,7 @@ This program was written by [Edward Peters](https://github.com/E-Peters-2205) to
 
 ## Instructions
 
-Python version 2.7 was used to write this program. Execute the code written in the file 'Generator.py' - found in the folder 'TileGenerator' - in order to use the program.
+Python version 2.7 was used to write this program. Execute the code written in the file 'Generator.py' in order to use the program, making sure the .jpg files are in the same folder at the time.
 Once the program is running use the buttons to cycle through the materials available and the conditions they can have applied to them.
 
 ## Licensing Information
