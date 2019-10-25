@@ -1,12 +1,12 @@
 # Platformer Tile Generator
-Must do the following:
-1.) Generate textures for tiles found in a platformer
-2.) Keep tiles a consistent size
-3.) Allow for variation through specified attributes (E.g.: Wet/dry? Soil/Rock?)
 
-Ninja Nyan Play Lab can do the following with the software:
-1.) Install it on any of their devices
+This program was written by [Edward Peters](https://github.com/E-Peters-2205) to fullfil the first contract of the Tinkeing Graphics assignment from Falmouth University's COMP110 module, titled 'Platform Tile Generator'. The aim of the program was to take tile-sized textures and maniputate the pixel colours in order to generate more textures.
 
-Ninja Nyan PLay Lab may not do the following with the software:
-1.) Look at the underlying source code
-2.) Copy, modify or redistribute
+## Instructions
+
+Python version 2.7 was used to write this program. Execute the code written in the file 'Generator.py' - found in the folder 'TileGenerator' - in order to use the program.
+Once the program is running use the buttons to cycle through the materials available and the conditions they can have applied to them.
+
+## Licensing Information
+
+The MIT license has been applied due to it's simplicity, which I feel is appropriate for a program of this calibre. It will enable wide use of the code while still recognising the original author. This is because a license notice must be included in any copies of the code, including commecial copies.
